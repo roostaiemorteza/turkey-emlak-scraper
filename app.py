@@ -99,7 +99,9 @@ with r2:
     fig.update_layout(height=420,showlegend=True)
     st.plotly_chart(fig,use_container_width=True)
 st.subheader("🛏️ Oda tipine göre medyan m² fiyatı")
-fig=px.bar(filtered,x="Oda",y="m2_fiyat_TL",color="Şehir",barmode="group",histfunc="median",hover_data=["Fiyat_TL"])
+med = (filtered.groupby(["Oda","Şehir"], as_index=False)["m2_fiyat_TL"]
+             .median())
+fig=px.bar(med,x="Oda",y="m2_fiyat_TL",color="Şehir",barmode="group")
 fig.update_layout(height=400,yaxis_title="Medyan TL / m²")
 st.plotly_chart(fig,use_container_width=True)
 st.subheader("🏆 En değerli 10 fırsat ilanı")
