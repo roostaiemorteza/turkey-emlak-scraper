@@ -1,0 +1,121 @@
+﻿ID,Başlık,Şehir,İlçe,Durum,Oda,m2,Fiyat_TL,Fiyat_EUR,m2_fiyat_TL,Enlem,Boylam,Fırsat_Skoru,Fırsat_Etiketi,Kaynak,Tarama_Tarihi
+1000,Muratpaşa 3+1 Dubleks Satılık,Antalya,Muratpaşa,Satılık,3+1 Dubleks,65,12100000,325300.0,186154,36.90086,30.62413,0.37,YÜKSEK RİSK,Sahibinden,2026-10-25
+1001,Merkez 5+1 Villa Satılık,Alanya,Avsallar,Satılık,5+1 Villa,110,34763000,934500.0,316027,36.46645,32.0625,0.69,NORMAL,Sahibinden,2026-10-25
+1002,Merkez 4+1 Villa Satılık (Fırsat!),Alanya,Merkez,Satılık,4+1 Villa,180,15128000,406700.0,84044,36.48308,32.02815,0.83,FIRSAT,Zingat,2026-10-25
+1003,Muratpaşa 5+1 Villa Satılık,Antalya,Lara,Satılık,5+1 Villa,220,28254000,759500.0,128427,36.89928,30.71159,0.35,YÜKSEK RİSK,Sahibinden,2026-10-25
+1004,Merkez 4+1 Villa Satılık (Fırsat!),Alanya,Kargıcak,Satılık,4+1 Villa,130,6204000,166800.0,47723,36.45952,32.02974,0.9,FIRSAT,Zingat,2026-10-25
+1005,Muratpaşa 5+1 Villa Satılık,Antalya,Konyaaltı,Satılık,5+1 Villa,90,36745000,987800.0,408278,36.91215,30.72957,0.41,YÜKSEK RİSK,Sahibinden,2026-10-25
+1006,Merkez 3+1 Dubleks Kiralık,Alanya,Kargıcak,Kiralık,3+1 Dubleks,65,22019000,591900.0,338754,36.46552,32.04989,0.35,YÜKSEK RİSK,Emlakjet,2026-10-25
+1007,Merkez 3+1 Dubleks Satılık,Alanya,Avsallar,Satılık,3+1 Dubleks,130,7164000,192600.0,55108,36.48344,32.11963,0.48,NORMAL,Hepsiemlak,2026-10-25
+1008,Konak 4+1 Villa Kiralık,İzmir,Konak,Kiralık,4+1 Villa,75,32300000,868300.0,430667,38.32695,27.04794,0.73,NORMAL,Emlakjet,2026-10-25
+1009,Kadıköy 5+1 Villa Satılık,İstanbul,Bakırköy,Satılık,5+1 Villa,65,17874000,480500.0,274985,40.9645,28.92391,0.67,NORMAL,Emlakjet,2026-10-25
+1010,Muratpaşa 5+1 Villa Satılık,Antalya,Lara,Satılık,5+1 Villa,130,34493000,927200.0,265331,36.931,30.686,0.65,NORMAL,Hepsiemlak,2026-10-25
+1011,Merkez 2+1 Daire Satılık (Fırsat!),Alanya,Kargıcak,Satılık,2+1 Daire,150,11691000,314300.0,77940,36.49863,31.99566,0.84,FIRSAT,Zingat,2026-10-25
+1012,Kadıköy 2+1 Daire Satılık,İstanbul,Beylikdüzü,Satılık,2+1 Daire,110,7214000,193900.0,65582,41.04956,28.80136,0.35,YÜKSEK RİSK,Emlakjet,2026-10-25
+1013,Merkez 5+1 Villa Kiralık (Fırsat!),Alanya,Mahmutlar,Kiralık,5+1 Villa,130,29246000,786200.0,224969,36.52555,32.03586,0.94,FIRSAT,Zingat,2026-10-25
+1014,Konak 3+1 Dubleks Satılık,İzmir,Karşıyaka,Satılık,3+1 Dubleks,220,5821000,156500.0,26459,38.25144,27.10392,0.31,YÜKSEK RİSK,Sahibinden,2026-10-25
+1015,Merkez 5+1 Villa Satılık,Alanya,Avsallar,Satılık,5+1 Villa,75,2958000,79500.0,39440,36.46571,31.99852,0.35,YÜKSEK RİSK,Emlakjet,2026-10-25
+1016,Merkez 4+1 Villa Satılık,Alanya,Merkez,Satılık,4+1 Villa,220,17391000,467500.0,79050,36.5208,32.11778,0.6,NORMAL,Sahibinden,2026-10-25
+1017,Muratpaşa 3+1 Dubleks Satılık,Antalya,Kepez,Satılık,3+1 Dubleks,180,23670000,636300.0,131500,36.84682,30.64385,0.38,YÜKSEK RİSK,Emlakjet,2026-10-25
+1018,Merkez 5+1 Villa Satılık (Fırsat!),Alanya,Merkez,Satılık,5+1 Villa,75,30588000,822300.0,407840,36.55628,32.10969,0.89,FIRSAT,Hepsiemlak,2026-10-25
+1019,Merkez 3+1 Daire Kiralık (Fırsat!),Alanya,Avsallar,Kiralık,3+1 Daire,180,33440000,898900.0,185778,36.44026,32.03466,0.9,FIRSAT,Emlakjet,2026-10-25
+1020,Kadıköy 3+1 Daire Satılık,İstanbul,Kadıköy,Satılık,3+1 Daire,180,77093000,2072400.0,428294,41.02529,28.96688,0.64,NORMAL,Zingat,2026-10-25
+1021,Muratpaşa 2+1 Daire Satılık (Fırsat!),Antalya,Muratpaşa,Satılık,2+1 Daire,65,40103000,1078000.0,616969,36.93216,30.62891,0.93,FIRSAT,Sahibinden,2026-10-25
+1022,Merkez 2+1 Daire Satılık,Alanya,Merkez,Satılık,2+1 Daire,180,8895000,239100.0,49417,36.49031,32.06171,0.69,NORMAL,Zingat,2026-10-25
+1023,Kadıköy 1+1 Stüdyo Satılık,İstanbul,Kadıköy,Satılık,1+1 Stüdyo,110,29983000,806000.0,272573,40.95121,28.99846,0.76,NORMAL,Sahibinden,2026-10-25
+1024,Muratpaşa 1+1 Stüdyo Kiralık (Fırsat!),Antalya,Lara,Kiralık,1+1 Stüdyo,110,26763000,719400.0,243300,36.84893,30.72839,0.91,FIRSAT,Zingat,2026-10-25
+1025,Muratpaşa 2+1 Daire Satılık,Antalya,Konyaaltı,Satılık,2+1 Daire,130,7851000,211000.0,60392,36.86268,30.69863,0.39,YÜKSEK RİSK,Zingat,2026-10-25
+1026,Merkez 2+1 Daire Kiralık (Fırsat!),Alanya,Avsallar,Kiralık,2+1 Daire,130,34767000,934600.0,267438,36.53952,31.98617,0.92,FIRSAT,Zingat,2026-10-25
+1027,Merkez 2+1 Daire Satılık,Alanya,Merkez,Satılık,2+1 Daire,130,11693000,314300.0,89946,36.44903,32.10363,0.68,NORMAL,Hepsiemlak,2026-10-25
+1028,Muratpaşa 1+1 Stüdyo Satılık,Antalya,Muratpaşa,Satılık,1+1 Stüdyo,150,39991000,1075000.0,266607,36.93787,30.64731,0.6,NORMAL,Hepsiemlak,2026-10-25
+1029,Muratpaşa 3+1 Daire Satılık,Antalya,Konyaaltı,Satılık,3+1 Daire,150,38473000,1034200.0,256487,36.93375,30.74691,0.58,NORMAL,Hepsiemlak,2026-10-25
+1030,Konak 5+1 Villa Kiralık,İzmir,Karşıyaka,Kiralık,5+1 Villa,65,13436000,361200.0,206708,38.30336,27.14369,0.53,NORMAL,Sahibinden,2026-10-25
+1031,Konak 3+1 Daire Satılık,İzmir,Karşıyaka,Satılık,3+1 Daire,65,24641000,662400.0,379092,38.25473,26.84656,0.62,NORMAL,Zingat,2026-10-25
+1032,Kadıköy 3+1 Dubleks Satılık,İstanbul,Bakırköy,Satılık,3+1 Dubleks,75,39963000,1074300.0,532840,41.0721,28.79614,0.65,NORMAL,Zingat,2026-10-25
+1033,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Merkez,Satılık,3+1 Dubleks,130,2317000,62300.0,17823,36.48622,32.06072,0.8,FIRSAT,Zingat,2026-10-25
+1034,Muratpaşa 5+1 Villa Satılık (Fırsat!),Antalya,Konyaaltı,Satılık,5+1 Villa,180,1013000,27200.0,5628,36.87371,30.6291,0.86,FIRSAT,Zingat,2026-10-25
+1035,Kadıköy 5+1 Villa Satılık,İstanbul,Bakırköy,Satılık,5+1 Villa,75,42808000,1150800.0,570773,41.02207,28.82674,0.76,NORMAL,Emlakjet,2026-10-25
+1036,Merkez 4+1 Villa Satılık,Alanya,Kargıcak,Satılık,4+1 Villa,130,28101000,755400.0,216162,36.4958,32.0419,0.3,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1037,Konak 3+1 Daire Satılık,İzmir,Çeşme,Satılık,3+1 Daire,90,31601000,849500.0,351122,38.29493,26.84956,0.74,NORMAL,Sahibinden,2026-10-25
+1038,Muratpaşa 5+1 Villa Satılık (Fırsat!),Antalya,Konyaaltı,Satılık,5+1 Villa,110,32785000,881300.0,298045,36.9162,30.66992,0.83,FIRSAT,Emlakjet,2026-10-25
+1039,Merkez 4+1 Villa Kiralık (Fırsat!),Alanya,Mahmutlar,Kiralık,4+1 Villa,90,1222000,32800.0,13578,36.46111,32.11412,0.89,FIRSAT,Emlakjet,2026-10-25
+1040,Muratpaşa 3+1 Dubleks Satılık (Fırsat!),Antalya,Lara,Satılık,3+1 Dubleks,110,9044000,243100.0,82218,36.944,30.73589,0.85,FIRSAT,Emlakjet,2026-10-25
+1041,Konak 5+1 Villa Kiralık,İzmir,Çeşme,Kiralık,5+1 Villa,90,51305000,1379200.0,570056,38.40316,27.01065,0.61,NORMAL,Hepsiemlak,2026-10-25
+1042,Kadıköy 3+1 Dubleks Satılık,İstanbul,Kadıköy,Satılık,3+1 Dubleks,220,12899000,346700.0,58632,40.96799,28.8425,0.46,NORMAL,Hepsiemlak,2026-10-25
+1043,Merkez 3+1 Daire Satılık,Alanya,Avsallar,Satılık,3+1 Daire,75,28691000,771300.0,382547,36.48674,32.08777,0.67,NORMAL,Sahibinden,2026-10-25
+1044,Konak 4+1 Villa Satılık,İzmir,Karşıyaka,Satılık,4+1 Villa,220,1795000,48300.0,8159,38.34765,26.88647,0.51,NORMAL,Emlakjet,2026-10-25
+1045,Muratpaşa 4+1 Villa Satılık (Fırsat!),Antalya,Konyaaltı,Satılık,4+1 Villa,180,23457000,630600.0,130317,36.94769,30.68944,0.85,FIRSAT,Emlakjet,2026-10-25
+1046,Muratpaşa 3+1 Daire Satılık,Antalya,Kepez,Satılık,3+1 Daire,75,20263000,544700.0,270173,36.86922,30.71896,0.33,YÜKSEK RİSK,Emlakjet,2026-10-25
+1047,Kadıköy 2+1 Daire Satılık,İstanbul,Bakırköy,Satılık,2+1 Daire,180,36359000,977400.0,201994,40.97915,28.77745,0.62,NORMAL,Sahibinden,2026-10-25
+1048,Muratpaşa 4+1 Villa Satılık,Antalya,Muratpaşa,Satılık,4+1 Villa,110,14278000,383800.0,129800,36.89768,30.64834,0.73,NORMAL,Zingat,2026-10-25
+1049,Kadıköy 3+1 Daire Satılık (Fırsat!),İstanbul,Bakırköy,Satılık,3+1 Daire,90,83821000,2253300.0,931344,40.96405,28.76027,0.82,FIRSAT,Zingat,2026-10-25
+1050,Konak 5+1 Villa Satılık (Fırsat!),İzmir,Çeşme,Satılık,5+1 Villa,180,34893000,938000.0,193850,38.42006,27.05021,0.87,FIRSAT,Sahibinden,2026-10-25
+1051,Muratpaşa 1+1 Stüdyo Satılık,Antalya,Muratpaşa,Satılık,1+1 Stüdyo,150,36651000,985200.0,244340,36.93195,30.7269,0.56,NORMAL,Sahibinden,2026-10-25
+1052,Konak 3+1 Daire Satılık,İzmir,Çeşme,Satılık,3+1 Daire,150,44053000,1184200.0,293687,38.37318,27.20981,0.62,NORMAL,Emlakjet,2026-10-25
+1053,Konak 2+1 Daire Satılık,İzmir,Çeşme,Satılık,2+1 Daire,180,50458000,1356400.0,280322,38.42633,26.87193,0.52,NORMAL,Emlakjet,2026-10-25
+1054,Konak 1+1 Stüdyo Satılık,İzmir,Çeşme,Satılık,1+1 Stüdyo,150,3326000,89400.0,22173,38.31807,27.19016,0.52,NORMAL,Zingat,2026-10-25
+1055,Muratpaşa 4+1 Villa Satılık,Antalya,Kepez,Satılık,4+1 Villa,110,4473000,120200.0,40664,36.88378,30.62224,0.68,NORMAL,Zingat,2026-10-25
+1056,Merkez 4+1 Villa Satılık,Alanya,Kargıcak,Satılık,4+1 Villa,180,12104000,325400.0,67244,36.48222,32.04352,0.63,NORMAL,Zingat,2026-10-25
+1057,Kadıköy 5+1 Villa Satılık,İstanbul,Beşiktaş,Satılık,5+1 Villa,110,18694000,502500.0,169945,40.9749,29.04544,0.52,NORMAL,Zingat,2026-10-25
+1058,Kadıköy 3+1 Daire Satılık,İstanbul,Bakırköy,Satılık,3+1 Daire,75,18987000,510400.0,253160,40.95592,28.77181,0.51,NORMAL,Zingat,2026-10-25
+1059,Merkez 4+1 Villa Satılık,Alanya,Kargıcak,Satılık,4+1 Villa,220,7734000,207900.0,35155,36.46212,31.98719,0.7,NORMAL,Emlakjet,2026-10-25
+1060,Muratpaşa 3+1 Daire Satılık,Antalya,Konyaaltı,Satılık,3+1 Daire,75,27791000,747100.0,370547,36.92734,30.74339,0.7,NORMAL,Sahibinden,2026-10-25
+1061,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Avsallar,Satılık,3+1 Dubleks,75,28778000,773600.0,383707,36.49406,32.04198,0.85,FIRSAT,Emlakjet,2026-10-25
+1062,Kadıköy 5+1 Villa Kiralık,İstanbul,Beşiktaş,Kiralık,5+1 Villa,65,84323000,2266700.0,1297277,40.9844,28.78247,0.37,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1063,Merkez 3+1 Daire Satılık,Alanya,Kargıcak,Satılık,3+1 Daire,75,7733000,207900.0,103107,36.52483,32.07842,0.71,NORMAL,Emlakjet,2026-10-25
+1064,Muratpaşa 3+1 Daire Satılık,Antalya,Kepez,Satılık,3+1 Daire,110,18653000,501400.0,169573,36.84377,30.64923,0.73,NORMAL,Hepsiemlak,2026-10-25
+1065,Kadıköy 1+1 Stüdyo Kiralık,İstanbul,Üsküdar,Kiralık,1+1 Stüdyo,90,8974000,241200.0,99711,40.96617,29.02547,0.71,NORMAL,Emlakjet,2026-10-25
+1066,Kadıköy 1+1 Stüdyo Satılık,İstanbul,Kadıköy,Satılık,1+1 Stüdyo,220,37192000,999800.0,169055,40.96187,29.13476,0.6,NORMAL,Sahibinden,2026-10-25
+1067,Kadıköy 3+1 Daire Kiralık,İstanbul,Beylikdüzü,Kiralık,3+1 Daire,65,26013000,699300.0,400200,41.00667,29.0757,0.75,NORMAL,Sahibinden,2026-10-25
+1068,Konak 5+1 Villa Satılık (Fırsat!),İzmir,Bornova,Satılık,5+1 Villa,150,20756000,558000.0,138373,38.30764,27.2226,0.89,FIRSAT,Sahibinden,2026-10-25
+1069,Konak 2+1 Daire Kiralık (Fırsat!),İzmir,Bornova,Kiralık,2+1 Daire,75,13973000,375600.0,186307,38.33265,26.84379,0.83,FIRSAT,Zingat,2026-10-25
+1070,Konak 5+1 Villa Satılık,İzmir,Bornova,Satılık,5+1 Villa,220,33960000,912900.0,154364,38.27429,27.23657,0.39,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1071,Merkez 2+1 Daire Kiralık,Alanya,Avsallar,Kiralık,2+1 Daire,130,1767000,47500.0,13592,36.55365,32.07068,0.36,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1072,Konak 4+1 Villa Satılık,İzmir,Karşıyaka,Satılık,4+1 Villa,130,35549000,955600.0,273454,38.34136,26.82232,0.59,NORMAL,Hepsiemlak,2026-10-25
+1073,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Kargıcak,Satılık,3+1 Dubleks,75,19388000,521200.0,258507,36.53847,32.0196,0.89,FIRSAT,Zingat,2026-10-25
+1074,Konak 3+1 Dubleks Satılık,İzmir,Bornova,Satılık,3+1 Dubleks,90,31367000,843200.0,348522,38.34107,26.91089,0.54,NORMAL,Hepsiemlak,2026-10-25
+1075,Merkez 4+1 Villa Satılık,Alanya,Avsallar,Satılık,4+1 Villa,180,16524000,444200.0,91800,36.48633,32.07292,0.58,NORMAL,Hepsiemlak,2026-10-25
+1076,Konak 4+1 Villa Kiralık,İzmir,Konak,Kiralık,4+1 Villa,65,9872000,265400.0,151877,38.35519,26.97846,0.71,NORMAL,Hepsiemlak,2026-10-25
+1077,Konak 5+1 Villa Satılık (Fırsat!),İzmir,Bornova,Satılık,5+1 Villa,90,6421000,172600.0,71344,38.37997,27.17588,0.97,FIRSAT,Emlakjet,2026-10-25
+1078,Kadıköy 3+1 Daire Kiralık,İstanbul,Kadıköy,Kiralık,3+1 Daire,220,45993000,1236400.0,209059,41.00642,28.78938,0.74,NORMAL,Sahibinden,2026-10-25
+1079,Konak 1+1 Stüdyo Satılık,İzmir,Çeşme,Satılık,1+1 Stüdyo,90,29034000,780500.0,322600,38.33614,26.8721,0.52,NORMAL,Emlakjet,2026-10-25
+1080,Merkez 3+1 Dubleks Satılık,Alanya,Mahmutlar,Satılık,3+1 Dubleks,90,9534000,256300.0,105933,36.46786,32.06931,0.73,NORMAL,Emlakjet,2026-10-25
+1081,Kadıköy 4+1 Villa Satılık,İstanbul,Bakırköy,Satılık,4+1 Villa,65,64945000,1745800.0,999154,41.07839,28.86966,0.77,NORMAL,Emlakjet,2026-10-25
+1082,Kadıköy 3+1 Dubleks Satılık,İstanbul,Bakırköy,Satılık,3+1 Dubleks,220,28811000,774500.0,130959,41.02473,29.14708,0.63,NORMAL,Zingat,2026-10-25
+1083,Muratpaşa 3+1 Dubleks Kiralık (Fırsat!),Antalya,Kepez,Kiralık,3+1 Dubleks,180,14600000,392500.0,81111,36.92994,30.73738,0.84,FIRSAT,Hepsiemlak,2026-10-25
+1084,Kadıköy 5+1 Villa Kiralık (Fırsat!),İstanbul,Beşiktaş,Kiralık,5+1 Villa,110,56734000,1525100.0,515764,41.03167,29.11136,0.82,FIRSAT,Sahibinden,2026-10-25
+1085,Kadıköy 1+1 Stüdyo Satılık (Fırsat!),İstanbul,Bakırköy,Satılık,1+1 Stüdyo,220,6978000,187600.0,31718,41.04717,28.82026,0.81,FIRSAT,Hepsiemlak,2026-10-25
+1086,Kadıköy 5+1 Villa Kiralık,İstanbul,Bakırköy,Kiralık,5+1 Villa,130,18400000,494600.0,141538,41.05455,28.93733,0.63,NORMAL,Sahibinden,2026-10-25
+1087,Merkez 4+1 Villa Satılık (Fırsat!),Alanya,Merkez,Satılık,4+1 Villa,110,27519000,739800.0,250173,36.47174,31.9973,0.86,FIRSAT,Zingat,2026-10-25
+1088,Kadıköy 2+1 Daire Satılık,İstanbul,Beylikdüzü,Satılık,2+1 Daire,180,88204000,2371100.0,490022,41.06495,28.97456,0.37,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1089,Muratpaşa 2+1 Daire Satılık,Antalya,Lara,Satılık,2+1 Daire,220,21179000,569300.0,96268,36.94951,30.6351,0.38,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1090,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Avsallar,Satılık,3+1 Dubleks,180,31293000,841200.0,173850,36.51048,32.08172,0.96,FIRSAT,Emlakjet,2026-10-25
+1091,Muratpaşa 3+1 Daire Satılık,Antalya,Kepez,Satılık,3+1 Daire,220,28288000,760400.0,128582,36.88336,30.65069,0.49,NORMAL,Zingat,2026-10-25
+1092,Muratpaşa 1+1 Stüdyo Satılık,Antalya,Konyaaltı,Satılık,1+1 Stüdyo,150,37438000,1006400.0,249587,36.94618,30.74337,0.74,NORMAL,Emlakjet,2026-10-25
+1093,Muratpaşa 3+1 Daire Satılık,Antalya,Konyaaltı,Satılık,3+1 Daire,110,40973000,1101400.0,372482,36.83823,30.71947,0.33,YÜKSEK RİSK,Hepsiemlak,2026-10-25
+1094,Merkez 1+1 Stüdyo Satılık (Fırsat!),Alanya,Mahmutlar,Satılık,1+1 Stüdyo,110,22899000,615600.0,208173,36.5585,32.05563,0.84,FIRSAT,Hepsiemlak,2026-10-25
+1095,Muratpaşa 3+1 Daire Satılık,Antalya,Lara,Satılık,3+1 Daire,65,7232000,194400.0,111262,36.83629,30.71642,0.46,NORMAL,Sahibinden,2026-10-25
+1096,Muratpaşa 3+1 Dubleks Satılık,Antalya,Konyaaltı,Satılık,3+1 Dubleks,220,30983000,832900.0,140832,36.94345,30.62564,0.65,NORMAL,Zingat,2026-10-25
+1097,Konak 2+1 Daire Satılık (Fırsat!),İzmir,Bornova,Satılık,2+1 Daire,65,5481000,147300.0,84323,38.39248,26.97178,0.88,FIRSAT,Sahibinden,2026-10-25
+1098,Kadıköy 4+1 Villa Satılık,İstanbul,Beylikdüzü,Satılık,4+1 Villa,90,8061000,216700.0,89567,41.01897,28.93149,0.7,NORMAL,Emlakjet,2026-10-25
+1099,Muratpaşa 3+1 Daire Satılık,Antalya,Kepez,Satılık,3+1 Daire,75,37899000,1018800.0,505320,36.87067,30.67895,0.45,NORMAL,Emlakjet,2026-10-25
+1100,Muratpaşa 4+1 Villa Satılık (Fırsat!),Antalya,Muratpaşa,Satılık,4+1 Villa,150,19079000,512900.0,127193,36.84095,30.6311,0.96,FIRSAT,Emlakjet,2026-10-25
+1101,Muratpaşa 1+1 Stüdyo Satılık,Antalya,Muratpaşa,Satılık,1+1 Stüdyo,150,9631000,258900.0,64207,36.8793,30.73357,0.7,NORMAL,Emlakjet,2026-10-25
+1102,Muratpaşa 4+1 Villa Satılık,Antalya,Konyaaltı,Satılık,4+1 Villa,130,25483000,685000.0,196023,36.93167,30.66551,0.65,NORMAL,Zingat,2026-10-25
+1103,Muratpaşa 3+1 Dubleks Kiralık,Antalya,Muratpaşa,Kiralık,3+1 Dubleks,130,26701000,717800.0,205392,36.90308,30.70552,0.69,NORMAL,Zingat,2026-10-25
+1104,Muratpaşa 2+1 Daire Satılık,Antalya,Konyaaltı,Satılık,2+1 Daire,90,19238000,517200.0,213756,36.93438,30.69362,0.51,NORMAL,Emlakjet,2026-10-25
+1105,Muratpaşa 3+1 Daire Satılık,Antalya,Lara,Satılık,3+1 Daire,90,2056000,55300.0,22844,36.8674,30.66217,0.56,NORMAL,Sahibinden,2026-10-25
+1106,Muratpaşa 4+1 Villa Satılık,Antalya,Kepez,Satılık,4+1 Villa,90,11463000,308100.0,127367,36.88828,30.67747,0.33,YÜKSEK RİSK,Zingat,2026-10-25
+1107,Merkez 4+1 Villa Satılık,Alanya,Kargıcak,Satılık,4+1 Villa,75,24014000,645500.0,320187,36.44545,32.03534,0.5,NORMAL,Sahibinden,2026-10-25
+1108,Muratpaşa 1+1 Stüdyo Kiralık (Fırsat!),Antalya,Lara,Kiralık,1+1 Stüdyo,110,21127000,567900.0,192064,36.8444,30.68466,0.83,FIRSAT,Emlakjet,2026-10-25
+1109,Merkez 5+1 Villa Satılık,Alanya,Kargıcak,Satılık,5+1 Villa,90,26365000,708700.0,292944,36.44865,32.10065,0.46,NORMAL,Sahibinden,2026-10-25
+1110,Konak 3+1 Dubleks Satılık (Fırsat!),İzmir,Bornova,Satılık,3+1 Dubleks,65,32253000,867000.0,496200,38.3919,26.95885,0.89,FIRSAT,Sahibinden,2026-10-25
+1111,Konak 1+1 Stüdyo Satılık,İzmir,Konak,Satılık,1+1 Stüdyo,65,17873000,480500.0,274969,38.33734,26.80293,0.62,NORMAL,Emlakjet,2026-10-25
+1112,Konak 3+1 Daire Satılık (Fırsat!),İzmir,Konak,Satılık,3+1 Daire,75,27959000,751600.0,372787,38.3521,26.80701,0.81,FIRSAT,Hepsiemlak,2026-10-25
+1113,Kadıköy 3+1 Daire Satılık,İstanbul,Beşiktaş,Satılık,3+1 Daire,150,89129000,2395900.0,594193,41.02831,29.05409,0.46,NORMAL,Sahibinden,2026-10-25
+1114,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Kargıcak,Satılık,3+1 Dubleks,220,31985000,859800.0,145386,36.54371,32.06781,0.82,FIRSAT,Hepsiemlak,2026-10-25
+1115,Konak 2+1 Daire Satılık,İzmir,Çeşme,Satılık,2+1 Daire,75,32868000,883500.0,438240,38.35147,26.9052,0.51,NORMAL,Emlakjet,2026-10-25
+1116,Muratpaşa 2+1 Daire Kiralık,Antalya,Kepez,Kiralık,2+1 Daire,65,25645000,689400.0,394538,36.88553,30.69206,0.35,YÜKSEK RİSK,Sahibinden,2026-10-25
+1117,Konak 4+1 Villa Kiralık,İzmir,Konak,Kiralık,4+1 Villa,110,22977000,617700.0,208882,38.41219,27.16869,0.65,NORMAL,Sahibinden,2026-10-25
+1118,Merkez 3+1 Dubleks Satılık (Fırsat!),Alanya,Mahmutlar,Satılık,3+1 Dubleks,65,17475000,469800.0,268846,36.48367,32.10851,0.98,FIRSAT,Emlakjet,2026-10-25
+1119,Konak 2+1 Daire Satılık (Fırsat!),İzmir,Çeşme,Satılık,2+1 Daire,150,46960000,1262400.0,313067,38.2689,27.08919,0.84,FIRSAT,Zingat,2026-10-25
